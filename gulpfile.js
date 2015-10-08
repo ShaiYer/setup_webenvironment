@@ -1,7 +1,9 @@
-/**
- * Node requirements
- *
- */
+/*---------------------------
+ |
+ |
+ |   NodeJs requirements
+ |
+ ----------------------------*/
 
 var gulp = require("gulp");
 var shell = require("gulp-shell");
@@ -67,12 +69,14 @@ elixir(function(mix) {
 });
 
 
-/*
+/*---------------------------
  |
  |
- |   Set the Tasks
+ |   Set the tasks
  |
- */
+ ----------------------------*/
+
+
 
 
 // vendorJs
@@ -141,12 +145,12 @@ gulp.task('submodulesCss', function() {
 });
 
 
-/*-----------
+/*---------------------------
  |
  |
  |   Set the watch function
  |
- ------------*/
+ ----------------------------*/
 
 
 
