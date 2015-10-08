@@ -1,0 +1,13 @@
+{
+  "name": "cssite",
+  "dependencies": {
+    "jQuery": "~2.1.4",
+    "angular": "~1.4.3",
+    "materialize": "~0.97.0",
+    "angular-ui-sortable": "~0.13.4",
+    "angular-ui-router": "~0.2.15",
+    "angular-collection": "0.x.x",
+    "angular-resource": "~1.4.6",
+    "angular-animate": "~1.4.6"
+  }
+}
